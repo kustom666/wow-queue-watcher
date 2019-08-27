@@ -1,0 +1,4 @@
+pyscreenshot
+numpy
+twilio
+docopt
